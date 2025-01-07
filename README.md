@@ -36,7 +36,7 @@ Validators interested in the delegation program are required to [fill out an iss
 
 10. **Know Your Customer (KYC) Verification**: Validators must be able to certify that they are not Restricted Persons as defined below by going through a KYC/KYB process on Synaps.   
 
-Applications will be reviewed in order to assign upcoming ATONE delegations which are intended to remain active for six months. The delegations will be competitive, and there is no guarantee of being selected. Validators are encouraged to be as detailed as possible in their applications, providing clear proof of their contributions and vision for future involvement. The deadline for the first round of the application is Jan 13, 2025 at 12pm UTC. 
+Applications will be reviewed in order to assign upcoming ATONE delegations which are intended to remain active for six months. The delegations will be competitive, and there is no guarantee of being selected. Validators are encouraged to be as detailed as possible in their applications, providing clear proof of their contributions and vision for future involvement. The deadline for the first round of the application is Jan 14, 2025 at 12pm UTC. 
 
 ### Who is eligible to apply for the program?
 
