@@ -26,7 +26,7 @@ Validators interested in the delegation program are required to fill out an issu
 
 5. **Validator Twitter Account**
 
-6. **Past Contribution:** Share any past contributions to the AtomOne project, along with documented evidence of your work, including any relevant links.
+6. **Past Contributions:** Share any past contributions to the AtomOne project, along with documented evidence of your work, including any relevant links.
 
 7. **Future Contributions:** Outline a clear, actionable plan detailing your intended contributions to AtomOne over the next six months. Explain how you plan to accomplish those goals and how your efforts will strengthen the AtomOne project and benefits for the community. 
 
