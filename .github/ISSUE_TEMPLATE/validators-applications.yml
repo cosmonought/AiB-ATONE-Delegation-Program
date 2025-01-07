@@ -8,6 +8,7 @@ body:
     id: validator_moniker
     attributes:
       label: Name of the Validator
+      description: The full name of your validation node or team.
     validations:
       required: true
 
@@ -15,6 +16,7 @@ body:
     id: country
     attributes:
       label: Country
+      description: The country where the validator is registered.
     validations:
       required: true
 
