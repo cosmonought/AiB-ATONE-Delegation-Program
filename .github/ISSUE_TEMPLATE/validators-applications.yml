@@ -77,7 +77,5 @@ body:
       label: Know Your Customer (KYC) Verification
       description: Validators must be able to certify that they are not Restricted Persons as defined below by going through a KYC/KYB process on Synaps.
       options:
-        - label: I certify to not be a Restricted Person
-          required: true
         - label: I agree to be contacted by email to go through a KYC process by Synaps.
           required: true
