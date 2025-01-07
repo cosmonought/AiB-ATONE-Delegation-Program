@@ -46,7 +46,7 @@ Every active validator is welcome to apply for the program, however the followin
 
 - For the purpose of distribution of voting power, Validators with more than 3% voting power from the total delegated stake of the AtomOne chain. 
 
-- Validators not actively participating in future AtomOne testnets
+- Validators not actively participating in future AtomOne testnets.
 
 - Restricted Persons:
 
