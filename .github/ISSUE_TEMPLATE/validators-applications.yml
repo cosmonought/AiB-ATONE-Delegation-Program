@@ -1,0 +1,83 @@
+name: Validators submission form to delegation program
+description: Validators submission form to delegation program
+title: "[DELEGATION PROGRAM]: Validator name"
+labels: []
+projects: []
+body:
+  - type: input
+    id: validator_moniker
+    attributes:
+      label: Validator moniker
+    validations:
+      required: true
+
+  - type: input
+    id: country
+    attributes:
+      label: Country
+    validations:
+      required: true
+
+  - type: input
+    id: email
+    attributes:
+      label: Email Address
+    validations:
+      required: true
+
+  - type: input
+    id: github_account
+    attributes:
+      label: Github Account
+    validations:
+      required: true
+
+  - type: input
+    id: twitter_account
+    attributes:
+      label: Twitter Account
+    validations:
+      required: true
+
+  - type: textarea
+    id: past_contributions
+    attributes:
+      label: Past Contributions
+      description: Share any past contributions to the AtomOne project, along with documented evidence of your work, including any relevant links.
+    validations:
+      required: true
+
+  - type: textarea
+    id: future_contributions
+    attributes:
+      label: Future Contributions
+      description: Outline a clear, actionable plan detailing your intended contributions to AtomOne over the next six months. Explain how you plan to accomplish those goals and how your efforts will strengthen the AtomOne project and benefits for the community. 
+    validations:
+      required: true
+
+  - type: textarea
+    id: validator_chain_list
+    attributes:
+      label: List of chains that your validator operates on
+      description: Provide a list or link that includes all the chains where your validator is currently performing validation operations.
+    validations:
+      required: true
+
+  - type: textarea
+    id: conflict_of_interest
+    attributes:
+      label: Disclosure of Conflict of Interest
+      description: You are required to disclose all direct or indirect conflicts of interests, including affiliations with AiB, its employees or any other validator. 
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: kyc_verifications
+    attributes:
+      label: Know Your Customer (KYC) Verification
+      description: Validators must be able to certify that they are not Restricted Persons as defined below by going through a KYC/KYB process on Synaps.
+      options:
+        - label: I certify to not be a Restricted Person
+          required: true
+        - label: I agree to be contacted by email to go through a KYC process by Synaps.
+          required: true
