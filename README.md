@@ -62,7 +62,7 @@ Every active validator is welcome to apply for the program, however the followin
 
 - **Jan 15, 2025 (12pm UTC)  -** Application deadline for AiB ATONE Delegation Program (Cycle 1)
 
-- **Jan 28, 2024 -** Selected validators will be notified and will be required to provide documentation for KYC
+- **Jan 28, 2025 -** Selected validators will be notified and will be required to provide documentation for KYC
 
 - **Feb 4, 2025 - Feb 11, 2025 -** Selected validators will receive the delegation, upon successful verification and passing the KYC requirements. 
 
