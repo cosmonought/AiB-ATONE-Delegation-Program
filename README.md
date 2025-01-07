@@ -36,7 +36,7 @@ Validators interested in the delegation program are required to [fill out an iss
 
 10. **Know Your Customer (KYC) Verification**: Validators must be able to certify that they are not Restricted Persons as defined below by going through a KYC/KYB process on Synaps.   
 
-Applications will be reviewed in order to assign upcoming ATONE delegations which are intended to remain active for six months. The delegations will be competitive, and there is no guarantee of being selected. Validators are encouraged to be as detailed as possible in their applications, providing clear proof of their contributions and vision for future involvement. The deadline for the first round of the application is Jan 14, 2025 at 12pm UTC. 
+Applications will be reviewed in order to assign upcoming ATONE delegations which are intended to remain active for six months. The delegations will be competitive, and there is no guarantee of being selected. Validators are encouraged to be as detailed as possible in their applications, providing clear proof of their contributions and vision for future involvement. The deadline for the first round of the application is Jan 15, 2025 at 12pm UTC. 
 
 ### Who is eligible to apply for the program?
 
@@ -44,9 +44,9 @@ Every active validator is welcome to apply for the program, however the followin
 
 - Validators with conflicts of interest that are deemed material and unresolvable. AiB reserves the discretion to determine whether a disclosed conflict constitutes a material conflict of interest.
 
-- For the purpose of distribution of voting power, Validators with less than 3% voting power from the total delegated stake of the AtomOne chain. 
+- For the purpose of distribution of voting power, Validators with more than 3% voting power from the total delegated stake of the AtomOne chain. 
 
-- Validators actively participating in future AtomOne testnets
+- Validators not actively participating in future AtomOne testnets
 
 - Restricted Persons:
 
@@ -60,7 +60,7 @@ Every active validator is welcome to apply for the program, however the followin
 
 - **Jan 7, 2024 -** Applications are open 
 
-- **Jan 14, 2024 -** Application deadline for AiB ATONE Delegation Program (Cycle 1)
+- **Jan 15, 2024 -** Application deadline for AiB ATONE Delegation Program (Cycle 1)
 
 - **Jan 28, 2024 -** Selected validators will be notified and will be required to provide documentation for KYC
 
