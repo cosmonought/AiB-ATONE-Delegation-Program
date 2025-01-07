@@ -7,7 +7,7 @@ body:
   - type: input
     id: validator_moniker
     attributes:
-      label: Validator moniker
+      label: Name of the Validator
     validations:
       required: true
 
