@@ -14,7 +14,7 @@ The benefits of participating in the **AiB ATONE Delegation Program** are not li
 
 ### Application Process: How to get involved
 
-Validators interested in the delegation program are required to fill out an issue on the AiB GitHub repository titled **'AiB ATONE Delegation Program'.** Each application is considered on its individual merits. This form will request information on validators previous and future commitments to the AtomOne project, including: 
+Validators interested in the delegation program are required to [fill out an issue](https://github.com/allinbits/AiB-ATONE-Delegation-Program/issues/new/choose) on the AiB GitHub repository titled **'AiB ATONE Delegation Program'.** Each application is considered on its individual merits. This form will request information on validators previous and future commitments to the AtomOne project, including: 
 
 1. **Name of Validator:** The full name of your validation node or team.
 
