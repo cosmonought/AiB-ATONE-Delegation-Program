@@ -22,7 +22,7 @@ Validators interested in the delegation program are required to [fill out an iss
 
 3. **Validator Email Address**
 
-4. **Validator GitHub Account**
+4. **Validator GitHub Account (or/and accounts of the validator representatives)**
 
 5. **Validator Twitter Account**
 
