@@ -74,7 +74,7 @@ Some key criteria for assessing contribution and performance include:
 
 - **Contributions to building the AtomOne community:** Validators are encouraged to actively drive awareness of the chain, onboarding new community members and leveraging their channels to provide updates and progress on the AtomOne chain to the larger community, as well as sharing educational content and recommending reputable contributors to the network.
   
-- **Contributions to existing AtomOne documentation and tutorials:** Help improve the clarity, accuracy, and accessibility of AtomOne documentation and guides. Create or expand tutorials to cover to empower users, enhance onboarding, and support the ecosystem’s growth.
+- **Contributions to existing AtomOne documentation and tutorials:** Help improve the clarity, accuracy, and accessibility of AtomOne documentation and guides. Create or expand tutorials to empower users, enhance onboarding, and support the ecosystem’s growth.
   
 * **Network Reliability:** Consistent uptime, timely software updates, and responsiveness to network events are essential for building a resilient ecosystem. In addition validators are expected to upgrade within 24 hours of new protocol releases. Validators with poor network performance may see reductions in delegations.
 
