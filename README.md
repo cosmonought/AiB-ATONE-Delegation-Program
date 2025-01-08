@@ -70,10 +70,12 @@ Every active validator is welcome to apply for the program, however the followin
 
 Every six months, the AiB team will evaluate each validator's contribution and its technical performance in the program according to validators' new applications. Based on this review, delegations may be increased, maintained, decreased or removed entirely. Performance evaluations will consider multiple factors, with emphasis on both the delivery of the past contributions and adherence to the commitments outlined in the validator's plan for future contributions. Successful completion of promised work strengthens the chance for continued or increased delegation.
 
-Some key criteria for assessing performance include: 
+Some key criteria for assessing contribution and performance include: 
 
-- **Contributions to building the AtomOne community:** Validators are encouraged to actively drive awareness of the chain, onboarding new community members and leveraging their channels to provide updates and progress on the AtomOne chain to the larger community, as well as sharing educational content and recommending reputable contributors to the network. 
-
+- **Contributions to building the AtomOne community:** Validators are encouraged to actively drive awareness of the chain, onboarding new community members and leveraging their channels to provide updates and progress on the AtomOne chain to the larger community, as well as sharing educational content and recommending reputable contributors to the network.
+  
+- **Contributions to existing AtomOne documentation and tutorials:** Help improve the clarity, accuracy, and accessibility of AtomOne documentation and guides. Create or expand tutorials to cover to empower users, enhance onboarding, and support the ecosystem’s growth.
+  
 * **Network Reliability:** Consistent uptime, timely software updates, and responsiveness to network events are essential for building a resilient ecosystem. In addition validators are expected to upgrade within 24 hours of new protocol releases. Validators with poor network performance may see reductions in delegations.
 
 - **Support for AtomOne validators:** In case of any downtime, updates or emergency upgrades, validators are expected to ensure support to fellow validators at short notice. 
