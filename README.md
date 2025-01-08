@@ -58,7 +58,7 @@ Every active validator is welcome to apply for the program, however the followin
 
 ### Key Dates :
 
-- **Jan 7, 2025 -** Applications are open 
+- **Jan 8, 2025 -** Applications are open 
 
 - **Jan 15, 2025 (12pm UTC)  -** Application deadline for AiB ATONE Delegation Program (Cycle 1)
 
@@ -72,7 +72,7 @@ Every six months, the AiB team will evaluate each validator's contribution and i
 
 Some key criteria for assessing performance include: 
 
-- **Contributions to building the AtomOne community:** Validators are encouraged to actively drive awareness of the chain, onboarding new community members  and leveraging their channels to provide updates and progress on the AtomOne chain to the larger community, as well as sharing educational content and recommending reputable contributors to the network. 
+- **Contributions to building the AtomOne community:** Validators are encouraged to actively drive awareness of the chain, onboarding new community members and leveraging their channels to provide updates and progress on the AtomOne chain to the larger community, as well as sharing educational content and recommending reputable contributors to the network. 
 
 * **Network Reliability:** Consistent uptime, timely software updates, and responsiveness to network events are essential for building a resilient ecosystem. In addition validators are expected to upgrade within 24 hours of new protocol releases. Validators with poor network performance may see reductions in delegations.
 
@@ -82,7 +82,7 @@ Some key criteria for assessing performance include:
 
 - **Active participant in Governance:** A major goal for AtomOne is to create an improved governance system. Therefore active participation in discussions related to governance proposals and voting are fundamental to fulfill its vision. Therefore Validators are expected to vote on all governance proposals. The validators absent from governance activities may see reduction in delegations.
 
-* **Tooling Development:** Validators who are actively looking to expand the ecosystem by introducing dashboards, explorers, wallets and other tools in order to ensure robust running of the chain and its growth are taken into high consideration.
+* **Tooling Development/ Infrastructure support:** Validators who are actively looking to expand the ecosystem by introducing dashboards, explorers, wallets, other tools or providing infrastructure support in order to ensure robust running of the chain and support of its growth are taken into high consideration.
 
 - **No Malicious Activity**: Validators must maintain network integrity and avoid any slashing event. Any involvement in malicious activity or double-signing events will result in immediate removal from the delegation program and the redelegation of the existing delegated tokens. 
 
